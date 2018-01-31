@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=PolygonalPuzzle
+comment1.params=sizeX\ sizeY
+comment1.target=PolygonalPuzzle(int,\ int)
+comment2.params=
+comment2.target=void\ CrearPieza()
+comment3.params=pieza
+comment3.target=void\ tomarPieza(int)
+comment4.params=
+comment4.target=void\ Rotar()
+comment5.params=
+comment5.target=void\ Reflejar()
+comment6.params=dx\ dy
+comment6.target=void\ Trasladar(int,\ int)
+comment7.params=percentage
+comment7.target=void\ cambiarSize(int)
+comment8.params=
+comment8.target=void\ ponerPieza()
+numComments=9

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Piece
+comment1.params=color\ points
+comment1.target=Piece(java.lang.String,\ int[][])
+comment2.params=
+comment2.target=void\ take()
+comment3.params=
+comment3.target=void\ put()
+comment4.params=
+comment4.target=void\ reflect()
+comment5.params=
+comment5.target=void\ rotate()
+comment6.params=dx\ dy
+comment6.target=void\ translate(int,\ int)
+comment7.params=percentage
+comment7.target=void\ resize(int)
+numComments=8
